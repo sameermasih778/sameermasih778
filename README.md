@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 About Me<br><br>- 🔭 I'm currently working on full-stack web applications and task management systems<br>- 🤝 I'm looking to collaborate on React.js, Node.js, and AI-powered projects<br>- 💬 I'm looking to improve my skills in scalable backend development and software architecture<br>- 🌱 I'm currently learning advanced backend development, database design, and AI integration<br>- 💬 Ask me about React.js, JavaScript, Node.js, Express.js, REST APIs, and MySQL<br>- ⚡ Fun fact: I enjoy turning ideas into functional applications and solving real-world problems through code.<br>
+I'm a Software Engineering graduate and Full-Stack Developer focused on building responsive web applications, robust backend APIs, and AI-powered solutions. I enjoy solving complex problems, writing clean and maintainable code, and turning ideas into practical software.Experienced in developing responsive user interfaces, integrating frontend and backend systems, and building full-stack applications. Continuously improving my skills in backend development, database design, and software architecture while exploring new technologies.Open to collaborating on innovative web development projects and contributing to impactful software solutions.
 
 
 ## 🌐 Socials:
